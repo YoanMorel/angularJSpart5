@@ -1,4 +1,4 @@
-# AngularJS - Partie 1
+# AngularJS - Bonus
 
 ## Exercice 1
 Faire un formulaire de saisie d'adresse e-mail. Si l'adresse comporte le symbole @, alors une div verte apparait. S'il n'est pas là, une div rouge apparaît pour avertir l'utilisateur que sa saisie est incorrecte.
